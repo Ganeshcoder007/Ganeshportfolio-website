@@ -151,6 +151,7 @@ h2{
     margin-top: 24px;
     margin-bottom: 80px;
     color: white;
+    cursor: pointer;
 }
 .container3{
     display: flex;
